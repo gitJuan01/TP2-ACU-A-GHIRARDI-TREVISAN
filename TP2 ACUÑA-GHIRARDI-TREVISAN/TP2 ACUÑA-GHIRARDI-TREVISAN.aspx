@@ -30,6 +30,14 @@
         <br />
         <asp:TextBox ID="Monto" runat="server"></asp:TextBox>
         <br />
+        <br />
+        <asp:Button ID="Button1" runat="server" Height="39px" Text="Ingresar" Width="185px" OnClick="Button1_Click" />
+        <br />
+        <br />
+        <asp:Label ID="Label5" runat="server" Text="Datos:"></asp:Label>
+        <br />
+        <asp:Label ID="Label6" runat="server" Text="..."></asp:Label>
+        <br />
     </form>
 </body>
 </html>

@@ -18,5 +18,10 @@ namespace TP2_ACUÑA_GHIRARDI_TREVISAN
         {
 
         }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
