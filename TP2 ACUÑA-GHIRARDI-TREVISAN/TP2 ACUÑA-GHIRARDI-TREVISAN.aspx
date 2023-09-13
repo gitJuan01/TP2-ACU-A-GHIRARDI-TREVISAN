@@ -11,22 +11,22 @@
     <form id="form1" runat="server">
         <div>
         </div>
-        <asp:Label ID="Label1" runat="server" Text="Concepto:"></asp:Label>
+        <asp:Label ID="TituloConcepto" runat="server" Text="Concepto:"></asp:Label>
         <br />
         <asp:TextBox ID="Concepto" runat="server"></asp:TextBox>
         <br />
         <br />
-        <asp:Label ID="Label2" runat="server" Text="Fecha:"></asp:Label>
+        <asp:Label ID="TituloFecha" runat="server" Text="Fecha:"></asp:Label>
         <br />
         <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
         <br />
-        <asp:Label ID="Label3" runat="server" Text="Medio de Pago:"></asp:Label>
+        <asp:Label ID="TituloMedioDePago" runat="server" Text="Medio de Pago:"></asp:Label>
         <br />
         <asp:RadioButton ID="Credito" runat="server" />
         <asp:RadioButton ID="Debito" runat="server" OnCheckedChanged="Debito_CheckedChanged" />
         <br />
         <br />
-        <asp:Label ID="Label4" runat="server" Text="Monto:"></asp:Label>
+        <asp:Label ID="TituloMonto" runat="server" Text="Monto:"></asp:Label>
         <br />
         <asp:TextBox ID="Monto" runat="server"></asp:TextBox>
         <br />
@@ -34,9 +34,9 @@
         <asp:Button ID="Button1" runat="server" Height="39px" Text="Ingresar" Width="185px" OnClick="Button1_Click" />
         <br />
         <br />
-        <asp:Label ID="Label5" runat="server" Text="Datos:"></asp:Label>
+        <asp:Label ID="TituloDatos" runat="server" Text="Datos:"></asp:Label>
         <br />
-        <asp:Label ID="Label6" runat="server" Text="..."></asp:Label>
+        <asp:Label ID="Datos" runat="server" Text="..."></asp:Label>
         <br />
     </form>
 </body>

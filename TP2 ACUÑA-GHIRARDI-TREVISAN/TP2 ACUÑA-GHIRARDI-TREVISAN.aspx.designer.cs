@@ -24,13 +24,13 @@ namespace TP2_ACUÑA_GHIRARDI_TREVISAN
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// Label1 control.
+        /// TituloConcepto control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label1;
+        protected global::System.Web.UI.WebControls.Label TituloConcepto;
 
         /// <summary>
         /// Concepto control.
@@ -42,13 +42,13 @@ namespace TP2_ACUÑA_GHIRARDI_TREVISAN
         protected global::System.Web.UI.WebControls.TextBox Concepto;
 
         /// <summary>
-        /// Label2 control.
+        /// TituloFecha control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label2;
+        protected global::System.Web.UI.WebControls.Label TituloFecha;
 
         /// <summary>
         /// Calendar1 control.
@@ -60,13 +60,13 @@ namespace TP2_ACUÑA_GHIRARDI_TREVISAN
         protected global::System.Web.UI.WebControls.Calendar Calendar1;
 
         /// <summary>
-        /// Label3 control.
+        /// TituloMedioDePago control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label3;
+        protected global::System.Web.UI.WebControls.Label TituloMedioDePago;
 
         /// <summary>
         /// Credito control.
@@ -87,13 +87,13 @@ namespace TP2_ACUÑA_GHIRARDI_TREVISAN
         protected global::System.Web.UI.WebControls.RadioButton Debito;
 
         /// <summary>
-        /// Label4 control.
+        /// TituloMonto control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label4;
+        protected global::System.Web.UI.WebControls.Label TituloMonto;
 
         /// <summary>
         /// Monto control.
@@ -114,21 +114,21 @@ namespace TP2_ACUÑA_GHIRARDI_TREVISAN
         protected global::System.Web.UI.WebControls.Button Button1;
 
         /// <summary>
-        /// Label5 control.
+        /// TituloDatos control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label5;
+        protected global::System.Web.UI.WebControls.Label TituloDatos;
 
         /// <summary>
-        /// Label6 control.
+        /// Datos control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label6;
+        protected global::System.Web.UI.WebControls.Label Datos;
     }
 }
