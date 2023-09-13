@@ -18,7 +18,7 @@
         <br />
         <asp:Label ID="TituloFecha" runat="server" Text="Fecha:"></asp:Label>
         <br />
-        <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
+        <asp:Calendar ID="Calendar1" runat="server" Height="123px" Width="276px"></asp:Calendar>
         <br />
         <asp:Label ID="TituloMedioDePago" runat="server" Text="Medio de Pago:"></asp:Label>
         <br />
@@ -32,6 +32,8 @@
         <br />
         <br />
         <asp:Button ID="Button1" runat="server" Height="39px" Text="Ingresar" Width="185px" OnClick="Button1_Click" />
+        <br />
+        <br />
         <br />
         <br />
         <asp:Label ID="TituloDatos" runat="server" Text="Datos:"></asp:Label>
