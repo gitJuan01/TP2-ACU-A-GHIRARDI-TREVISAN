@@ -22,8 +22,8 @@
         <br />
         <asp:Label ID="TituloMedioDePago" runat="server" Text="Medio de Pago:"></asp:Label>
         <br />
-        <asp:RadioButton ID="Credito" runat="server" />
-        <asp:RadioButton ID="Debito" runat="server" OnCheckedChanged="Debito_CheckedChanged" />
+        <asp:RadioButton ID="Credito" runat="server" text ="Credito"/>
+        <asp:RadioButton ID="Debito" runat="server" text = "Debito" OnCheckedChanged="Debito_CheckedChanged" />
         <br />
         <br />
         <asp:Label ID="TituloMonto" runat="server" Text="Monto:"></asp:Label>
@@ -31,7 +31,7 @@
         <asp:TextBox ID="Monto" runat="server"></asp:TextBox>
         <br />
         <br />
-        <asp:Button ID="Button1" runat="server" Height="39px" Text="Ingresar" Width="185px" OnClick="Button1_Click" />
+        <asp:Button ID="Button1" runat="server" Height="39px" Text="Ingresar" Width="185px" OnClick="carga" />
         <br />
         <br />
         <br />
