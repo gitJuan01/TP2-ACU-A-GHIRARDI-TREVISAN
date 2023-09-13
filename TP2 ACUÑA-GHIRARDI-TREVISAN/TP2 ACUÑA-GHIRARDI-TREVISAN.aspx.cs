@@ -13,5 +13,10 @@ namespace TP2_ACUÑA_GHIRARDI_TREVISAN
         {
 
         }
+
+        protected void Debito_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
