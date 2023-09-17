@@ -69,22 +69,13 @@ namespace TP2_ACUÑA_GHIRARDI_TREVISAN
         protected global::System.Web.UI.WebControls.Label TituloMedioDePago;
 
         /// <summary>
-        /// Control Credito.
+        /// Control RadioButtonList1.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RadioButton Credito;
-
-        /// <summary>
-        /// Control Debito.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.RadioButton Debito;
+        protected global::System.Web.UI.WebControls.RadioButtonList RadioButtonList1;
 
         /// <summary>
         /// Control TituloMonto.
@@ -114,6 +105,24 @@ namespace TP2_ACUÑA_GHIRARDI_TREVISAN
         protected global::System.Web.UI.WebControls.Button Button1;
 
         /// <summary>
+        /// Control DropDownList1.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList DropDownList1;
+
+        /// <summary>
+        /// Control Button2.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button Button2;
+
+        /// <summary>
         /// Control TituloDatos.
         /// </summary>
         /// <remarks>
@@ -123,12 +132,12 @@ namespace TP2_ACUÑA_GHIRARDI_TREVISAN
         protected global::System.Web.UI.WebControls.Label TituloDatos;
 
         /// <summary>
-        /// Control Datos.
+        /// Control Label1.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Datos;
+        protected global::System.Web.UI.WebControls.Label Label1;
     }
 }

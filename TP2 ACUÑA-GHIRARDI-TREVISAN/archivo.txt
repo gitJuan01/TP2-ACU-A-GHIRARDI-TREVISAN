@@ -1,2 +1,4 @@
 12/9/2023 00:00:00 | sadas | Debito
 12/9/2023 00:00:00 | otroooo | Debito
+5/10/2023 00:00:00 | funca | Debito | 2000
+28/11/2023 00:00:00 | prueba9 | Credito | 123444
